@@ -63,7 +63,7 @@ Software development is a dynamic and constantly evolving field that involves cr
 <tr>
 <td style="text-align:center">AI/ML</td>
 <td style="text-align:center">
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></td>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></td>
 </tr>
 
 <tr>

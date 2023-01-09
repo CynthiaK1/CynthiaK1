@@ -6,7 +6,7 @@
 
 Programmer | Student | Loves UI/UX
 
-?></h3>
+</h3>
 As a computer science student, I am passionate about exploring the latest technologies and techniques to create innovative solutions that not only function effectively, but also provide a seamless and enjoyable user experience. From designing intuitive user interfaces to developing efficient algorithms, I am constantly learning and growing as a developer, always striving to push the boundaries of what is possible with code. Whether I am working on a personal project or collaborating with a team, I am driven by the challenge of turning ideas into reality through software development.
 
 <table align="center">
